@@ -23,7 +23,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Rigorosamente regulamentado.",
-                afirmacao: "medo do descontrole da ia."
+                afirmacao: "Criou normas eficientes."
             },
             {
                 texto: "liberado para incentivar inovação.",
